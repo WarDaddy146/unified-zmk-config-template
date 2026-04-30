@@ -6,7 +6,8 @@
         compatible = "zmk,keymap";
 
         default_layer {
-            bindings = 
+            label = "Default";
+            bindings = <
                 &kp A
             >;
         };
