@@ -3,3 +3,4 @@ include:
     build:
       mcu: rp2040
       features: [ "rp2040" ]
+    shield: my_keyboard
